@@ -2,35 +2,35 @@
 
 
 
-# [Project Name] 🎯
+#  RavaNet™ — AI Rava Particle Counter 🎯
 
 
 ## Basic Details
-### Team Name: [Nexa]
+### Team Name: Nexa
 
 
 ### Team Members
 - Team Lead: [Athul A] - [Sree Budda College of Engineering,Pattoor]
 - Member 2: [Anandhakrishnan KB] - [Sree Budda College of Engineering,Pattoor]
-- Member 3: [Name] - [College]
+
 
 ### Project Description
-[RavaNet™ is an AI-powered full-stack web application designed to do exactly one highly specific thing: count the exact number of rava particles in a given sample. Powered by the Gemini API, it boasts 98.7% accuracy and 0% honesty while demonstrating server-side AI capabilities]
+RavaNet™ is an AI-powered full-stack web application designed to do exactly one highly specific thing: count the exact number of rava particles in a given sample. Powered by the Gemini API, it boasts 98.7% accuracy and 0% honesty while demonstrating server-side AI capabilities
 
 ### The Problem (that doesn't exist)
-[Have you ever stared deeply into a bowl of upma or a fresh bag of semolina(Rava) over exactly how many individual particles are in there? Probably not. It's a completely ridiculous mystery that absolutely nobody has been losing sleep over.]
+Have you ever stared deeply into a bowl of upma or a fresh bag of semolina(Rava) over exactly how many individual particles are in there? Probably not. It's a completely ridiculous mystery that absolutely nobody has been losing sleep over.
 
 ### The Solution (that nobody asked for)
-[We built the world's most confident (and blatantly dishonest) AI to count them for you! By harnessing the power of server-side generative AI, RavaNet™ boldly "analyzes" your rava and spits out a highly specific, entirely fabricated number, bringing unnecessary precision directly to your pantry.]
+RavaNet™ scans the uploaded image, runs it through pseudo-scientific "Kaali-Theta Rava Granulometry" analysis, and spits out an absurdly specific, entirely fabricated particle count — complete with a dramatic processing screen, confetti made of flying rava grains, meme sound effects, and a shareable "certificate of confidence" for your results.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [TypeScript]
-- [React 19, Express.js]
-- [Libraries used]
-- [Tools used]
-
+- **Languages:** TypeScript, HTML, CSS
+- **Frameworks:** React 19, Vite
+- **Libraries:** Tailwind CSS, Motion (Framer Motion), lucide-react, Web Audio API, Canvas API
+- **Tools:** npm, TypeScript compiler
+  
 For Hardware:
 - [List main components]
 - [List specifications]
@@ -39,7 +39,9 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+```bash
+npm install
+```
 
 # Run
 [commands]
@@ -48,50 +50,26 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1540" height="1330" alt="Screenshot 2026-09-03 194210" src="https://github.com/user-attachments/assets/e1741f3d-03d2-4483-910a-61f7ad539b92" />
+This is the user interface
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1488" height="1316" alt="Screenshot 2026-09-03 194838" src="https://github.com/user-attachments/assets/dd9509f4-9b20-4f11-8a90-d75f02738613" />
+This is the count of Rava grains in the uploaded image
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1206" height="1330" alt="Screenshot 2026-09-03 195201" src="https://github.com/user-attachments/assets/d3d16b96-87d8-48cb-bf08-c07e816bc907" />
+This is the screen after pressing the option "I want correct count"
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1536" height="1024" alt="2afe50a4-f06c-4853-a0f8-a8ca5ff618fd" src="https://github.com/user-attachments/assets/33f57a0f-0888-4365-9479-4ab84535939c" />
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://ravanet-ai-rava-particle-counter.ai.studio
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Athul A]: [Ideation, UI designing ,documentation]
+- [Anandhakrishnan KB]:[Ideation,coding, UI designing]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
