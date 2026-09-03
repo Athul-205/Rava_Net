@@ -31,10 +31,6 @@ For Software:
 - **Libraries:** Tailwind CSS, Motion (Framer Motion), lucide-react, Web Audio API, Canvas API
 - **Tools:** npm, TypeScript compiler
   
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -44,20 +40,25 @@ npm install
 ```
 
 # Run
-[commands]
+```bash
+npm run dev
+```
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 <img width="1540" height="1330" alt="Screenshot 2026-09-03 194210" src="https://github.com/user-attachments/assets/e1741f3d-03d2-4483-910a-61f7ad539b92" />
 This is the user interface
+
 
 <img width="1488" height="1316" alt="Screenshot 2026-09-03 194838" src="https://github.com/user-attachments/assets/dd9509f4-9b20-4f11-8a90-d75f02738613" />
 This is the count of Rava grains in the uploaded image
 
+
 <img width="1206" height="1330" alt="Screenshot 2026-09-03 195201" src="https://github.com/user-attachments/assets/d3d16b96-87d8-48cb-bf08-c07e816bc907" />
 This is the screen after pressing the option "I want correct count"
+
 
 # Diagrams
 <img width="1536" height="1024" alt="2afe50a4-f06c-4853-a0f8-a8ca5ff618fd" src="https://github.com/user-attachments/assets/33f57a0f-0888-4365-9479-4ab84535939c" />
