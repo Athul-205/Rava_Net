@@ -1,0 +1,6 @@
+{
+  "name": "RavaNet™ — AI Rava Particle Counter",
+  "description": "The world's most confident AI that counts the exact number of rava particles in your rava, with 98.7% accuracy and 0% honesty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
