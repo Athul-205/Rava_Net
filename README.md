@@ -6,13 +6,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Nexa]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Athul A] - [Sree Buddha College of Engineering,Pattoor]
+- Member 2: [Anandhakrishnan KB] - [Sree Buddha College of Engineering,Pattoor]
+
 
 ### Project Description
 [2-3 lines about what your project does]
