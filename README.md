@@ -10,8 +10,8 @@
 
 
 ### Team Members
-- Team Lead: [Athul A] - [Sree Budda College of Engineering,Pattoor]
-- Member 2: [Anandhakrishnan KB] - [Sree Budda College of Engineering,Pattoor]
+- Team Lead: Athul A - [Sree Budda College of Engineering,Pattoor]
+- Member 2: Anandhakrishnan KB - [Sree Budda College of Engineering,Pattoor]
 
 
 ### Project Description
