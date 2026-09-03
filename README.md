@@ -6,28 +6,28 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Nexa]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Athul A] - [Sree Budda College of Engineering,Pattoor]
+- Member 2: [Anandhakrishnan KB] - [Sree Budda College of Engineering,Pattoor]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[RavaNet™ is an AI-powered full-stack web application designed to do exactly one highly specific thing: count the exact number of rava particles in a given sample. Powered by the Gemini API, it boasts 98.7% accuracy and 0% honesty while demonstrating server-side AI capabilities]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Have you ever stared deeply into a bowl of upma or a fresh bag of semolina(Rava) over exactly how many individual particles are in there? Probably not. It's a completely ridiculous mystery that absolutely nobody has been losing sleep over.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We built the world's most confident (and blatantly dishonest) AI to count them for you! By harnessing the power of server-side generative AI, RavaNet™ boldly "analyzes" your rava and spits out a highly specific, entirely fabricated number, bringing unnecessary precision directly to your pantry.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [TypeScript]
+- [React 19, Express.js]
 - [Libraries used]
 - [Tools used]
 
